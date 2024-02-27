@@ -1,5 +1,7 @@
-// take the input from the user and find the Square 
-let number = prompt("Enter the number:");
+// program to include constants
 
-let result = Math.sqrt(number);
-console.log(`The square root of ${number} is ${result}`);
+const a = 5;
+console.log(a);
+
+const a = 5;
+a = 44; // throws an error

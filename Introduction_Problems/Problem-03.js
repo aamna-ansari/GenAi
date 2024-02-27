@@ -1,4 +1,4 @@
-// take the input from the user
+// take the input from the user and find the Square 
 let number = prompt("Enter the number:");
 
 let result = Math.sqrt(number);

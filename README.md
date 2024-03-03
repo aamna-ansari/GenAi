@@ -14,8 +14,8 @@
 # Control Flow_Problems
 1. [Solve Quadratic Equation](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_01.js)
 2. [Check if a number is Positive, Negative, or Zero](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_02.js)
-3. []()
-4. []()
-5. []()
+3. [Check if a Number is Odd or Even](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_03.js)
+4. [ Largest Among Three Numbers](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_04.js)
+5. [Check Prime Number](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_05.js)
 6. []()
 7. []()

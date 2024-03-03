@@ -12,7 +12,7 @@
 10. [Convert the Fahrenheit to Celsius](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Introduction_Problems/Problem-10.js)
 
 # Control Flow_Problems
-1. []()
+1. [Solve Quadratic Equation](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_01.js)
 2. []()
 3. []()
 4. []()

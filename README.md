@@ -13,7 +13,7 @@
 
 # Control Flow_Problems
 1. [Solve Quadratic Equation](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_01.js)
-2. []()
+2. [Check if a number is Positive, Negative, or Zero](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_02.js)
 3. []()
 4. []()
 5. []()

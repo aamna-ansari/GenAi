@@ -1,6 +1,6 @@
 // Program to Check Prime Number
 
-let number = parseInt(prompt("ENter Your number:"));
+let number = parseInt(prompt("Enter Your number:"));
 let isPrime = true;
 
 // check if number is equal to 1

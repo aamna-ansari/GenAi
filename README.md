@@ -20,4 +20,4 @@
 6. [Print All Prime Numbers in an Interval](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_06.js)
 7. [Factorial of a Number](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_07.js)
 8. [Multiplication Table](https://github.com/AaMna-AnSari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_08.js)
-9. []()
+9. [Generate Fibonacci series up to n terms](https://github.com/aamna-ansari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_09.js)

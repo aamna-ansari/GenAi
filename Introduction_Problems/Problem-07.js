@@ -5,9 +5,9 @@
 // Miles = Kilometers * 0.621371 miles
 
 // Solution:
-let oneKilo = 0.621371;
-let KiloMeters = prompt("Enter the value");
+let oneMiles = 0.621371;
+let miles = prompt("Enter the value");
 
-let miles = KiloMeters * oneKilo;
+let kiloMeters = miles / oneMiles;
 
-console.log(`${KiloMeters} Kilometers is equal to ${miles} miles`);
+console.log(`${miles} miles is equal to ${kiloMeters} kiloMeters`);

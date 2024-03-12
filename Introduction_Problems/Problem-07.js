@@ -1,4 +1,4 @@
-// Write a program to Convert Kilometers to miles
+// Write a program to Convert miles to Kilometers
 
 // Formula:
 // 1 kilo = 0.621371 miles

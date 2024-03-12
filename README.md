@@ -1,2 +1,11 @@
 # Introduction JavaScript
-1. [Program to Print 'Hello World'](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-01.js)
+1. [Print 'Hello World'](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-01.js)
+2. [Add two Numbers](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-02.js)
+3. [Include constants](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-03.js)
+4. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-04.js)
+5. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-05.js)
+6. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-06.js)
+7. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-07.js)
+8. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-08.js)
+9. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-0.js)
+10. [](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-10.js)

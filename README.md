@@ -11,6 +11,6 @@
 10. [Fahrenheit to Celsius](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-10.js)
 
 # Control Flow
-1. []()
-2. []()
-3. []()
+1. [Solve Quadratic Equation](https://github.com/aamna-ansari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_01.js)
+2. [Check if a number is Positive, Negative, or Zero](https://github.com/aamna-ansari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_02.js)
+3. [Check if a Number is Odd or Even](https://github.com/aamna-ansari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_03.js)

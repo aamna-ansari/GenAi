@@ -1,4 +1,4 @@
-# Introduction JavaScript
+# Introduction JS
 1. [Print 'Hello World'](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-01.js)
 2. [Add two Numbers](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-02.js)
 3. [Include constants](https://github.com/aamna-ansari/JS_Playground/blob/main/Introduction_Problems/Problem-03.js)

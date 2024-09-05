@@ -17,5 +17,4 @@
 4. [Largest Among Three Numbers](https://github.com/aamna-ansari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_04.js)
 5. [Check Prime Number](https://github.com/aamna-ansari/JS_Playground/blob/main/Control%20Flow_Problems/Problem_05.js)
 
-6.7.
-
+6.7.JS

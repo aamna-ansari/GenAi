@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Calculator")
+    st.title("Simple Calculator")
 
     # Input numbers
     num1 = st.number_input("Enter the first number", format="%f")
